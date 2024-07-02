@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
 PATCHBOOK MARKUP LANGUAGE & PARSER
+UPDATED VERSION FROM SPECTROAUDIO
 """
 
 import sys
